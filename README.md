@@ -1,17 +1,18 @@
 ## **Hi there, the name is Kevin Hoang 👋**
+### **Here Are Some Things About Me 😁**
 ---
-### Here are some things about me:
-- Located in Massachusetts
-- Currently learning Typescript & Docker
+- Located in Massachusetts.
+- Currently learning Typescript & Docker.
 - **Best ways to reach out to me:**
-  - Email: knhoang10@gmail.com
-  - Phone: 860-682-2251
-- **Hobbies**: Helping others, coding, real estate, investing, working out, and volleyball
-- **Goal**: Trying to change the world one step at a time!
-- **Wildest adventure**: I drove without my seatbelt once.
+  - Email | knhoang10@gmail.com
+  - Phone | 860-682-2251
+- **Goal** | Trying to change the world one step at a time!
+- **Hobbies** | Helping others, coding, real estate, investing, working out, and volleyball.
+- **Motto** | Changing Lives Through Service & Technology 
+- **Wildest adventure** | I drove without my seatbelt once.
 
 
-### **Technical Skills**
+### **Technical Skills 💻**
 --- 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -33,7 +34,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### **GitHub Statistics**
+### **GitHub Statistics 📈**
 ---         
 <picture>
 <source
