@@ -1,4 +1,9 @@
 ## **Hi there, the name is Kevin Hoang 👋**
+
+Full-stack software engineer in Massachusetts, open to remote roles.
+
+🌐 **Portfolio:** [kevinhoang.dev](https://www.kevinhoang.dev) · 📄 **Resume:** [kevinhoang.dev/resume](https://www.kevinhoang.dev/resume)
+
 ### **Here Are Some Things About Me 😁**
 ---
 - Located in Massachusetts.
